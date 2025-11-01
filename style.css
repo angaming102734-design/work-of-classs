@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.k3{
+    color: violet;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+ul{
+    list-style: decimal;
+}
+
+.l0{
+    color: black;
+    font-size: 25px;
+}
+
+.g5{
+    cursor: pointer;
+    width:150px;
+    height: 30px;
+}
+
+.g4{
+    cursor: pointer;
+    width: 150px;
+    height: 30px;
+}
+
+.g3{
+    cursor: pointer;
+    width: 150px;
+    height: 30px;
+}
+
+.g2{
+    cursor: pointer;
+    height: 30px;
+    width: 150px;
+}
+
+.g1{
+    cursor: pointer;
+    height:30px;
+    width: 150px;
+}
+
+.f0{
+    cursor: pointer;
+    width: 120px;
+}
+
+.s3{
+    background-color: aqua;
+    cursor: pointer;
+    color: black;
+    font-size: 30px;
+}
